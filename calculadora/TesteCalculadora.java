@@ -1,3 +1,9 @@
+/**
+ * <p><strong>TesteCalculadora</strong></p>
+ * classe utilizada para realizar testes das operações da classe calculadora
+ * @author Gabriel Mattos de Lima
+ * @version 1.0
+ */
 package calculadora;
 
 public class TesteCalculadora{
